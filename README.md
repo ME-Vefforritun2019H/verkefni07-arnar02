@@ -1,7 +1,7 @@
 # vfor1Verk07
 
-1. Búið til CSS skjal sem heitir style
-2. Vinna í HTML skjalinu
+#1. Búið til CSS skjal sem heitir style
+#2. Vinna í HTML skjalinu
 2.1 Búið til tengingu við CSS skjalið ykkar
 2.2 Í hvert P tagg eigið þið að búa til id. Í Fyrsta p taggið, sem inniheldur textann "14.0 VERY ALKALINE" á að setja id fourteen. Í næsta fyrir neðan, sem inniheldur textann 13.0, á að setja id thirteen o.s.frv.
 
